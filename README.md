@@ -1,0 +1,6 @@
+- 👋 Hi, I’m Dzonny, I'm 16 y.o
+- 👀 I’m interested in Website, FiveM & Discord Bot Developing.
+- 🌱 I’m currently learning .lua, .html, .css, .js, .cpp, .py
+- 💞️ I’m looking to collaborate on Website, FiveM & Bot Developing.
+- 📫 How to reach me? Just send me a message here haha, or take another option and message me on my discord: Dzonny#5668
+- 🔒 Do not take and Re-Upload my content. You can use it, and adjust it to your liking's, but do not take it and mark it as yours!

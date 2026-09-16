@@ -1,50 +1,91 @@
-<h1 align="center">Nikola Čepić</h1>
-<h3 align="center">Web Developer & Digital Marketer · Belgrade, Serbia</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=00D9FF&center=true&vCenter=true&width=520&lines=Websites+built+to+convert;Marketing+that+actually+moves+numbers;FiveM+resources+without+the+lag;Co-founder+of+Nicra" alt="Typing SVG" />
-</p>
+# Dzonny
+
+### Full Stack Developer · FiveM · Discord · Belgrade, Serbia
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Writing+code+since+I+was+12;From+SA-MP+Pawn+to+full+stack+products;SaaS%2C+CRM+and+AI+powered+tools;FiveM+resources+built+for+performance;If+it+can+be+coded%2C+I'll+build+it" alt="Typing SVG" />
+
+</div>
 
 ---
 
-## About Me
+## Who I Am
 
-I'm Nikola, also known as **Dzonny**. I started writing code at 15, mostly breaking things to understand how they work. Five years later I build websites, digital products and marketing strategies for clients across Switzerland and the Balkans.
+Started at **12** writing `.pwn` scripts for SA-MP servers, just to see what happens when I change a line. That curiosity never stopped.
 
-I care about the part where design, code and business meet. A good website is not just clean code, it's something that brings results.
+Today I build everything from **SaaS platforms** and **AI powered tools** to **FiveM server infrastructure** and **Discord automation**. Language doesn't matter, the problem does. Lua, JavaScript, Python, C, C++, whatever gets the job done cleanly.
 
-- 🌐 Web development with a focus on performance and conversion
-- 📈 Digital marketing, SEO and brand strategy
-- 🎮 Optimized FiveM development, from single resources to full server setups
-- 🎬 Branding, video production and copywriting
+> Less talk, more commits.
+
+## What I Do
+
+```
+🌐  Full Stack Web Development   →  Frontend, backend, APIs, databases, deployment
+🎮  FiveM Development             →  Optimized resources, frameworks, full server setups
+🤖  Discord Development           →  Custom bots, automation, community systems
+⚙️  Software & Tools              →  Python, C, C++ and anything the project needs
+```
+
+## What I Build
+
+| | Type | Description |
+|:---:|---|---|
+| ☁️ | **SaaS Platforms** | Subscription based products with auth, billing, dashboards and multi tenant architecture |
+| 📊 | **CRM Systems** | Custom client management, pipelines, analytics and team workflows |
+| 🧠 | **AI Powered Tools** | LLM integrations, voice agents, smart assistants and content generation |
+| ⚡ | **Automation** | Workflow automation, API integrations, scrapers and scheduled jobs that save hours |
+| 🛒 | **Web Applications** | Booking systems, marketplaces, admin panels and business platforms |
+| 🎮 | **Game Server Systems** | FiveM frameworks, custom resources, anticheat logic and server tooling |
+| 🤖 | **Discord Ecosystems** | Moderation, tickets, whitelists, economy systems and server integrations |
 
 ## Currently Building
 
 ### 🎙️ Nicra
-An AI voice receptionist that answers calls, books appointments and handles customers so businesses never miss a lead. Co-founded with my brother.
+An AI voice receptionist that answers calls, books appointments and handles customers 24/7, so businesses never miss a lead.
 
-## Tech Stack
+## Arsenal
+
+**Languages**
+
+<img src="https://skillicons.dev/icons?i=lua,js,ts,py,c,cpp,cs,php,html,css&perline=10" />
+
+<img src="https://img.shields.io/badge/Pawn-SA--MP-FF6600?style=for-the-badge" />
+
+**Frameworks & Runtime**
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind,discordjs&perline=10" />
+
+**Databases & Infrastructure**
+
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,docker,linux,nginx,vercel&perline=10" />
+
+**Tools**
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma&perline=10" />
+
+## Spoken Languages
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,py,lua,mysql,git,github,figma,vscode&perline=15" />
+  <img src="https://img.shields.io/badge/Serbian-Native-C6363C?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/English-Fluent-012169?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/French-Conversational-0055A4?style=for-the-badge" />
 </p>
 
-## GitHub Stats
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=TVOJ_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TVOJ_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+## Let's Build Something
 
-## Let's Work Together
-
-Have a project in mind or want to collaborate? I'm always open to a good conversation.
+Got a project, a server that needs fixing or an idea worth building? Hit me up.
 
 <p align="left">
-  <a href="mailto:TVOJ@EMAIL.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/TVOJ_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://discord.com/users/667748057042911262"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
+  <a href="mailto:dzonnybusiness@EMAIL.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
 
-<p align="center"><i>Clean code. Practical solutions. No unnecessary complexity.</i></p>
+<div align="center">
+
+**Clean code. Practical solutions. No unnecessary complexity.**
+
+</div>

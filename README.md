@@ -2,9 +2,9 @@
 
 # Dzonny
 
-### Full Stack Developer · FiveM · Discord · Belgrade, Serbia
+### Full Stack Developer · FiveM · Discord · Video Editor · Belgrade, Serbia
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Writing+code+since+I+was+12;From+SA-MP+Pawn+to+full+stack+products;SaaS%2C+CRM+and+AI+powered+tools;FiveM+resources+built+for+performance;If+it+can+be+coded%2C+I'll+build+it" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Writing+code+since+I+was+12;SaaS%2C+CRM+and+AI+powered+tools;FiveM+resources+built+for+performance;Edits+that+keep+people+watching;If+it+can+be+coded%2C+I'll+build+it" alt="Typing SVG" />
 
 </div>
 
@@ -14,7 +14,9 @@
 
 Started at **12** writing `.pwn` scripts for SA-MP servers, just to see what happens when I change a line. That curiosity never stopped.
 
-Today I build everything from **SaaS platforms** and **AI powered tools** to **FiveM server infrastructure** and **Discord automation**. Language doesn't matter, the problem does. Lua, JavaScript, Python, C, C++, whatever gets the job done cleanly.
+My path was never a straight line. Websites, FiveM servers, Discord bots, Python scripts and video projects all happened at the same time, overlapping, pausing and coming back stronger. That mix is exactly what shaped how I work today: I understand the code, the product and the people who end up using it.
+
+Language doesn't matter, the problem does. Lua, JavaScript, Python, C, C++, whatever gets the job done cleanly.
 
 > Less talk, more commits.
 
@@ -25,6 +27,7 @@ Today I build everything from **SaaS platforms** and **AI powered tools** to **F
 🎮  FiveM Development             →  Optimized resources, frameworks, full server setups
 🤖  Discord Development           →  Custom bots, automation, community systems
 ⚙️  Software & Tools              →  Python, C, C++ and anything the project needs
+🎬  Video Editing                 →  Short form, long form, viral edits, local and international
 ```
 
 ## What I Build
@@ -44,6 +47,11 @@ Today I build everything from **SaaS platforms** and **AI powered tools** to **F
 ### 🎙️ Nicra
 An AI voice receptionist that answers calls, books appointments and handles customers 24/7, so businesses never miss a lead.
 
+## Beyond Code
+
+### 🎬 Video Editing
+Serious editing work since **2022**. Short form and long form content, viral edits and full projects for both local and international audiences. Knowing what holds attention on screen is a big part of why the products I build feel right to use.
+
 ## Arsenal
 
 **Languages**
@@ -60,26 +68,25 @@ An AI voice receptionist that answers calls, books appointments and handles cust
 
 <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,docker,linux,nginx,vercel&perline=10" />
 
-**Tools**
+**Creative & Tools**
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma&perline=10" />
+<img src="https://skillicons.dev/icons?i=pr,ae,ps,git,github,vscode,figma&perline=10" />
 
 ## Spoken Languages
 
 <p align="left">
   <img src="https://img.shields.io/badge/Serbian-Native-C6363C?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/English-Fluent-012169?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/French-Conversational-0055A4?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/English-Native%20Level-012169?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/French-Intermediate-0055A4?style=for-the-badge" />
 </p>
-
 
 ## Let's Build Something
 
-Got a project, a server that needs fixing or an idea worth building? Hit me up.
+Got a project, a server that needs fixing, content that needs editing or an idea worth building? Hit me up.
 
 <p align="left">
-  <a href="https://discord.com/users/667748057042911262"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
-  <a href="mailto:dzonnybusiness@EMAIL.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://discord.com/users/667748057042911262"><img src="https://img.shields.io/badge/Discord-dzny-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
+  <a href="mailto:dzonnybusiness@gmail.com"><img src="https://img.shields.io/badge/Email-dzonnybusiness@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
